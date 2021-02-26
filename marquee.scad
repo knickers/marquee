@@ -19,7 +19,7 @@ BACK = 1;
 FONT = "Roboto";
 
 // Walls placed inside or outside of the font border lines
-BORDER = 1; // [0:Outside, 1:Inside]
+BORDER = 0; // [0:Outside, 1:Inside]
 
 $fn = SIZE/5 + 40;
 
